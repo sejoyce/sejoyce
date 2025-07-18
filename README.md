@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Sarah!
+
+I'm a software engineer. I post fun side projects here!
+
+I previously owned @SarahJoyce. That was my account while I was studying computer science in college, but I lost access to it. :(
 <!--
 **sejoyce/sejoyce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
